@@ -20,7 +20,7 @@ Data
 •	Eniac_clean_data — Cleaned versions of the raw datasets
 •	Eniac_merged_tables — Merged datasets used for final analyses
 
-## Notebook
+## Notebooks
 •	Eniac_data_exploration and analysis
 
 Language:
